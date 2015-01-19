@@ -46,7 +46,8 @@
     "vlucas/phpdotenv": "1.0.9",
     "wpackagist-plugin/akismet": "dev-trunk",
     "wpackagist-theme/twentyfifteen": "*",
-    "wpackagist-theme/twentyeleven": "*"
+    "wpackagist-theme/twentyeleven": "*",
+    "wpackagist-theme/twentytwelve": "*"
   },
   "extra": {
     "installer-paths": {
