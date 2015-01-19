@@ -1,5 +1,5 @@
-set :application, 'my_app_name'
-set :repo_url, 'git@example.com:me/my_repo.git'
+set :application, 'helloworld'
+set :repo_url, 'https://github.com/chredd/helloworld.dev'
 
 # Branch options
 # Prompts for the branch name (defaults to current branch)
